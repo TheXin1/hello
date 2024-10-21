@@ -1,3 +1,4 @@
-server :
-  port : 1616
-foo : LiJiaXin
+server:
+    port: 1519
+
+foo: daidongdong 1519
